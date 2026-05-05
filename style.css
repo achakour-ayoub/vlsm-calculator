@@ -7,7 +7,7 @@ font-family: "Ubuntu", serif;
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: black;
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
